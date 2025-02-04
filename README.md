@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Smart-Email-Writer](https://github.com/Shivraj08/Smart-Email-Writer.git)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **Java,Oracle,Spring**
+- 💬 Ask me about **Java,Oracle,Spring,Spring Boot**
 
 - 📫 How to reach me **shivapawarsp55@gmail.com**
 
